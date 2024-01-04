@@ -10,7 +10,7 @@
      <h1 class="text-center">Welcome to</h1>
       <img src="http://www.learntek.org/wp-content/uploads/2017/08/jenkins_image.png" alt="Spidertocat"
            class="img-responsive center-block" style="width:250px"/>
-      <h1 class="text-center">This is a sample usecase to edit file and merge using githubcli </h1>
+      <h1 class="text-center">This is a sample usecase to edit file and merge using githubcli! Final Draft </h1>
 	  
   </div>
 </body>
